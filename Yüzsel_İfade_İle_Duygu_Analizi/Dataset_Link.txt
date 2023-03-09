@@ -1,0 +1,3 @@
+//// Model eğitimde kullanılan yüz verileri kaggle dan alınmıştır ////
+
+https://www.kaggle.com/datasets/msambare/fer2013
